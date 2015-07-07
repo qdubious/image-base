@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Eric Bottard
+MAINTAINER Eric Bottard; Charlie Pence
 
 # 'snapshot' or 'release'
 ENV XD_BUILD release
